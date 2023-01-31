@@ -7,6 +7,7 @@ Utility to automatically import Firestore collections into their respective Algo
 
     a. Run `yarn install ` or `npm install . `
 3. Firebase Service Account
+
     a. Download the private key for the Firebase Service account via the [Dashboard](https://console.firebase.google.com/u/0/project/_/settings/serviceaccounts)
     
     b. Save as `serviceAccount.json` within the same folder as the script
