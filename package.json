@@ -1,0 +1,26 @@
+{
+  "name": "algolia-firebase-import",
+  "version": "1.0.0",
+  "description": "Utility to automatically import Firestore collections into their respective Algolia indices",
+  "main": "export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael King <michael.king@algolia.com>",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^4.14.3",
+    "async": "^3.2.4",
+    "firebase-admin": "^11.4.0",
+    "firestore-export-import": "^1.3.5",
+    "ndjson": "^2.0.0",
+    "radash": "^10.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}

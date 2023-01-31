@@ -1,0 +1,7 @@
+{
+    "algoliaAppId": "AAAAAAAAAA",
+    "algoliaWriteApiKey": "12312312312312312312312312312312",
+    "collections": ["circuits"],
+    "exportFiles": false,
+    "fileFormat": "json"
+}
